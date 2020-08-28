@@ -1,0 +1,30 @@
+This is console based library management application.
+
+When you run application as java application RunMe.java you will be presented with options that you will have to enter, which are self explanatory.
+You can navigate through main menu to sub menu or exit at any time.
+Dependency have been added inside the project so no need to run as maven or gradle.
+
+
+
+Main menu Options
+
+Enter 1 : If you are Admin. 
+Enter 2 : If you are Librarian. 
+Enter 3 : Exit Application 
+
+
+If 1 : 
+Enter 1 : Add Librarian. 
+Enter 2 : View Librarian 
+Enter 3 : Delete Librarian 
+Enter 4 : Go Back to previous menu
+Enter 5 : Exit Application 
+
+and if 2:
+Enter 1 : Add Books. 
+Enter 2 : View Books 
+Enter 3 : Issue Books 
+Enter 4 : View Issue Books 
+Enter 5 : Return Books 
+Enter 6 : Go back to previous menu 
+Enter 7 : Exit Application 
